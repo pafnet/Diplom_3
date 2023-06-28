@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: UserRegistrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.635 s <<< FAILURE! - in UserRegistrationTest
+unsuccessfulUserRegistrationTest(UserRegistrationTest)  Time elapsed: 1.428 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ]> but was:<[Íåêîððåêòíûé ïàðîëü]>
+	at UserRegistrationTest.unsuccessfulUserRegistrationTest(UserRegistrationTest.java:50)
+
