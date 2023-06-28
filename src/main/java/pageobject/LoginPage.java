@@ -78,7 +78,7 @@ public class LoginPage {
 
     @Step("Заполнить поля с данными пользователя")
     public MainPage enterUserCredentials(String email, String password) {
-        Selenide.sleep(100);
+        Selenide.sleep(300);
         setEmail(email);
         setPassword(password);
         return submitLoginForm();
